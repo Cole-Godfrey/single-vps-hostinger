@@ -1,6 +1,6 @@
 # Single VPS Hostinger
 
-A self-hosted Next.js app for a single VPS. The stack runs Next.js, Postgres, Redis, Caddy, and Uptime Kuma with Docker Compose.
+A self-hosted Next.js app for a single VPS. The stack runs Next.js, Postgres, Redis, Caddy, and Uptime Kuma with Docker Compose. You can view this site at [hostgodfrey.com](https://hostgodfrey.com)
 
 ## Stack
 
